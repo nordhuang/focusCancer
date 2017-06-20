@@ -2,11 +2,14 @@
 focus the papers of cancer
 
 # 肝癌Hepatocellular Carcinoma
-1. Comprehensive and Integrative Genomic Characterization of Hepatocellular Carcinoma
+
+##1. Comprehensive and Integrative Genomic Characterization of Hepatocellular Carcinoma
 
     2017年6月15日，**美国癌症基因组图谱(TCGA)**研究网络在著名的*Cell*杂志发表了其肝癌项目的数据。为这一人类迄今最大规模的癌症基因组项目又增加了一份重磅成果。研究者通过全外显子测序和DNA拷贝数分析的方法分析了363例肝细胞癌(HCC)病例；并通过DNA甲基化、RNA、miRNA和蛋白质组表达分析了196例HCC病例。
 
-2. Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention
+# Cancer
+
+##1. Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention
 
     2017年3月24日，*Science*杂志上在线发表了美国约翰霍普金斯Kimmel癌症中心Bert Vogelstein研究员的一篇研究论文。论文指出在敲定各种癌症相对驱动因子所面临的持续挑战中(即癌症究竟是遗传性的还是常常认为的由环境所致的)。
 
