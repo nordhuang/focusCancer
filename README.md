@@ -1,7 +1,7 @@
 # focusCancer
 focus the papers of cancer
 
-## Medcine
+## ctDNA
 
 1. Comprehensive analysis of the discordance of EGFRmutation status between tumor tissues and matched circulating tumor DNA in advanced non-small-cell lung cancer
 
