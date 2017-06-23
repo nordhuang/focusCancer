@@ -29,7 +29,7 @@
     | MSI     | 不稳定标记的比例 | 阳性标记数（Bethesda工作组）|
     |--------|---------:|:-------:|
     | MSI-H| \>=40%| \>=2/5      |
-    | MSI-L| &alt;40%| MSI-L/MSS      |
+    | MSI-L| &alt; 40%| MSI-L/MSS      |
     | MSS| 0% | MSI-L/MSS      |
     
     1.3 MSI检测的临床意义
@@ -42,7 +42,7 @@
 
     　　一项回顾性研究结果显示，MSI-H患者并不能从5-FU的辅助化疗中获益。另一项研究结果则表明，dMMR可作为5-FU辅助治疗CRC无效的预测标志物。一项荟萃分析结果亦显示：在II期CRC患者中，具有dMMR者接受辅助化疗较未经治疗者并无生存优势，5年DFS反而显著缩短（72% vs. 87%）。这些研究结果表明，对于具有dMMR/MSI-H的II期患者，给予5-FU辅助化疗非但不能带来生存获益，反而对患者不利。因此，II期CRC患者是否需要辅助化疗，需要综合考虑临床高危因素和MSI状态。如果考虑氟尿嘧啶类单药治疗，推荐行MMR检测；对于具有dMMR/MSI-H的II期患者，可能预后较好，不应给予氟尿嘧啶类单药辅助治疗。
 
-    　　在2015年ASCO年会上，来自约翰霍普金斯医院的Le, et al,报道了基于MMR状态指导下的抗PD-1免疫治疗在晚期癌症中的价值。该研究共入组了32例经目前所有标准治疗均失败的晚期CRC患者，包括11例dMMR和21例pMMR，所有人均接受抗PD-1单抗Pembrolizumab（10mg/kg, Q2W）治疗。结果显示，dMMR组和pMMR组的ORR分别为40%和0%，而两组的DCR分别为90%和11%，均具有显著差异；dMMR组的中位PFS和OS均未达到，而pMMR组的中位PFS和OS分别为2.2月（HR, 0.103; 95%CI, 0.029-0.373, p&alt;0.001）和5.0月（HR, 0.216; 95%CI, 0.047-1.1, p=0.02）。因此，研究者认为，对于经目前所有标准治疗均失败、且为dMMR的晚期CRC患者，可给予抗PD-1单抗Pembrolizumab治疗。
+    　　在2015年ASCO年会上，来自约翰霍普金斯医院的Le, et al,报道了基于MMR状态指导下的抗PD-1免疫治疗在晚期癌症中的价值。该研究共入组了32例经目前所有标准治疗均失败的晚期CRC患者，包括11例dMMR和21例pMMR，所有人均接受抗PD-1单抗Pembrolizumab（10mg/kg, Q2W）治疗。结果显示，dMMR组和pMMR组的ORR分别为40%和0%，而两组的DCR分别为90%和11%，均具有显著差异；dMMR组的中位PFS和OS均未达到，而pMMR组的中位PFS和OS分别为2.2月（HR, 0.103; 95%CI, 0.029-0.373, p &alt; 0.001）和5.0月（HR, 0.216; 95%CI, 0.047-1.1, p=0.02）。因此，研究者认为，对于经目前所有标准治疗均失败、且为dMMR的晚期CRC患者，可给予抗PD-1单抗Pembrolizumab治疗。
 
     （3）帮助筛选Lynch综合征
 
@@ -55,9 +55,15 @@
     　　总之，MSI检测对于CRC患者的预后判断和治疗指导具有重要意义，如条件允许，所有CRC患者均应进行MSI检测。同时，对于可疑的患者，均应进行MSI检测，以帮助Lynch综合征的筛查，从而对确诊的Lynch综合征患者及其家属进行早期相关干预。
 
     参考文献
-    　　1.Cancer Genome Atlas Network. Comprehensive molecular characterization of human colon and rectal cancer. Nature 2012; 487: 330-337.
-    　　2.Barnestson RA, Tenesa A, Farrington SM, et al. Identification and survival of carriers of mutations in DNA mismatch-repair genes in colon cancer. N Engl J Med 2006; 354: 2751-2763.
-    　　3.Heinimann K, Muller H, Dobbie Z. Microsatellite instability in colorectal cancer. N Engl J Med 2000; 342: 1607-1608.
-    　　4.Le DT, Uram JN, Wang H, et al. PD-1 blockage in tumors with mismatch-repair deficiency. N Engl J Med 2015; 372: 2509-2520.
-    　　5.Moreira L, Balaguer F, Lindor N, et al. Identification of lynch syndrome among patients with colorectal cancer. JAMA 2012; 308: 1555-1565.
-    　　6.Hendriks YM, de Jong AE, Morreau H, et al. Diagnostic approach and management of lynch syndrome (hereditary nonpolyposis colorectal carcinoma): a guide for clinicians. CA Cancer J Clin 2006; 56: 213-225.
+    　　
+        1. Cancer Genome Atlas Network. Comprehensive molecular characterization of human colon and rectal cancer. Nature 2012; 487: 330-337.
+    　　
+        2. Barnestson RA, Tenesa A, Farrington SM, et al. Identification and survival of carriers of mutations in DNA mismatch-repair genes in colon cancer. N Engl J Med 2006; 354: 2751-2763.
+    　　
+        3. Heinimann K, Muller H, Dobbie Z. Microsatellite instability in colorectal cancer. N Engl J Med 2000; 342: 1607-1608.
+    　　
+        4. Le DT, Uram JN, Wang H, et al. PD-1 blockage in tumors with mismatch-repair deficiency. N Engl J Med 2015; 372: 2509-2520.
+    　　
+        5. Moreira L, Balaguer F, Lindor N, et al. Identification of lynch syndrome among patients with colorectal cancer. JAMA 2012; 308: 1555-1565.
+    　  
+        6. Hendriks YM, de Jong AE, Morreau H, et al. Diagnostic approach and management of lynch syndrome (hereditary nonpolyposis colorectal carcinoma): a guide for clinicians. CA Cancer J Clin 2006; 56: 213-225.
