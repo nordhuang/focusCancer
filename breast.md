@@ -14,7 +14,7 @@
 
 * 二、BRCA基因变异命名规则
     
-    推荐使用人类基因组变异协会（Human Genome Variation Society, HGVS）命名法作为基因变异命名的主要指导原则以规范基因序列变异的命名。同时参考序列必须包含在内以确保基因变异命名的准确无误。HGVS命名法的首选DNA编码参考序列是基因座参考基因组序列（Locus Reference Genomic sequence, [LRG](www.lrg-sequence.org)），但LRG尚未被广泛应用在解读的数据库和文献里。因此根据目前的情况，推荐使用最常用的2个转录本序列，分别为NM_007294.3（BRCA1）和@@NM_000059.3（BRCA2），相应的蛋白质参考序列为NP_009225.1（BRCA1）和@@NP_000050.2（BRCA2）。同时推荐使用[命名工具](mutalyzer.nl)对基因变异的HGVS命名进行校验。
+    推荐使用人类基因组变异协会（Human Genome Variation Society, HGVS）命名法作为基因变异命名的主要指导原则以规范基因序列变异的命名。同时参考序列必须包含在内以确保基因变异命名的准确无误。HGVS命名法的首选DNA编码参考序列是基因座参考基因组序列（Locus Reference Genomic sequence, LRG www.lrg-sequence.org ），但LRG尚未被广泛应用在解读的数据库和文献里。因此根据目前的情况，推荐使用最常用的2个转录本序列，分别为NM_007294.3（BRCA1）和@@NM_000059.3（BRCA2），相应的蛋白质参考序列为NP_009225.1（BRCA1）和@@NP_000050.2（BRCA2）。同时推荐使用命名工具 mutalyzer.nl 对基因变异的HGVS命名进行校验。
 
 * 三、BRCA变异分类
 
